@@ -1,0 +1,28 @@
+name: raphaelkunz
+favicon: null
+layout_spectrum: 0.7730632228776813
+typography_spectrum: 0.26802923646755517
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6246384081896394
+  lightness: 0.22095552342943847
+  saturation: 0.8510464862920344
+  rhythmicContrast: 0.37870934256352484
+purpose: []
