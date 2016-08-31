@@ -12,29 +12,29 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.8510464862920344
+  saturation: 0.7401434
   brandStrength: 1
-  lightness: 0.2209555234294385
+  lightness: 0.3351254
   brandColors:
     - '#FFFAEA'
     - '#070709'
     - '#7CA0AC'
     - '#D4C4A2'
     - '#36392E'
-  rhythmicContrast: 0.3787093425635248
+  rhythmicContrast: 0.3787093
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: raphaelkunz
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
-name: raphaelkunz
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.49734
+typography_spectrum: 0.4426523
 layout_spectrum: 1
